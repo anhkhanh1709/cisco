@@ -5,8 +5,8 @@
 
     cli:
       host: "{{ inventory_hostname }}"
-      username: cisco
-      password: cisco
+      username: admin
+      password: 123
       transport: cli
 
   tasks:
