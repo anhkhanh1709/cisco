@@ -1,5 +1,5 @@
 ---
-- hosts: ios
+- hosts: cisco_router
   vars:
     backup_root: /tmp/backups
 
