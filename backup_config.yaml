@@ -1,5 +1,5 @@
 ---
-- hosts: cisco_router
+- hosts: all
   vars:
     backup_root: /tmp/backups
 
